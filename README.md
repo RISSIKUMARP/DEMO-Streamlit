@@ -24,7 +24,7 @@ An interactive data visualization dashboard analyzing the most streamed Spotify 
 
 ---
 
-## 🎯 Project Overview
+## Project Overview
 
 This project analyzes streaming data from multiple platforms (Spotify, YouTube, TikTok, Apple Music, and more) to understand music consumption patterns, platform engagement, and the factors that contribute to a song's success in 2024.
 
